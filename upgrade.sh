@@ -58,3 +58,4 @@ done < /tmp/flist
 
 #to add existing instances
 # sudo ovs-vsctl add-port br-int qvo28549301-2c tag=1
+# also in /etc/apache2/sites-enabled move keystone to keystone.conf
